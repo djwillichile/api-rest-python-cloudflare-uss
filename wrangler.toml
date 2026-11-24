@@ -1,0 +1,4 @@
+name = "api-rest-python-estudiantes"
+main = "src/entry.py"
+compatibility_date = "2026-11-24"
+compatibility_flags = ["python_workers"]
