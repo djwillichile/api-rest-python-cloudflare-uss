@@ -1,0 +1,9 @@
+[project]
+name = "api-rest-python-estudiantes"
+version = "1.0.0"
+description = "Primera API REST con Python y Cloudflare Workers"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = ["workers-py", "workers-runtime-sdk"]
