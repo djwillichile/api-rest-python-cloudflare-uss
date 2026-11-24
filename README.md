@@ -40,7 +40,7 @@ uv run pywrangler login
 uv run pywrangler deploy
 ```
 
-Seguir las indicaciones de autenticación y abrir la dirección HTTPS que muestra el despliegue. La URL pública de este ejemplo está pendiente de publicación.
+Seguir las indicaciones de autenticación y abrir la dirección HTTPS que muestra el despliegue. URL pública comprobada: https://api-rest-python-estudiantes.djwillichile.workers.dev/
 
 ## Rutas
 
